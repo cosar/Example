@@ -1,2 +1,2 @@
-# Examplee
+# Example
 test git
